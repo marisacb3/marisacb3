@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 I'm María Isabel Cabrera Bermejo
+- 💻 Working as researcher at the University of Jaén 
 
 <!--
 **marisacb3/marisacb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
